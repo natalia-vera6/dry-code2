@@ -1,3 +1,5 @@
+
+# TEST EDIT
 # [ISE] In-Class Activity 5.2.2 - DRY Code
 
 In this activity, you'll be looking at a multipage Streamlit app with a _bunch_ of redundant code. Your task is to abstract out as much of that redundant code as you can so that the app still works, but changing things (e.g. the company address, or the login method) doesn't have to happen on every page.
